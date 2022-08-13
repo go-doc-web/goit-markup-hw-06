@@ -520,11 +520,16 @@ b {
 
 .footer-address {
   margin-right: 70px;
+  flex-grow: 1;
 }
 
 .container-wrapper {
   display: flex;
   align-items: baseline;
+}
+
+.footer-social {
+  margin-right: 93px;
 }
 
 .footer-social-list {
@@ -561,10 +566,6 @@ b {
 }
 
 /* Footer form */
-
-.footer-form {
-  margin-left: auto;
-}
 
 .footer-form-title {
   display: inline-block;
