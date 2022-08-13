@@ -635,10 +635,16 @@ b {
   border-color: transparent;
 
   cursor: pointer;
+  overflow: hidden;
 }
 
 .icon-btn-send {
   margin-left: 10px;
+}
+
+.footer-form-btn:hover,
+.footer-form-btn:focus {
+  background-color: #188ce8;
 }
 
 /* ---------PAGE-PORTFOLIO---------------------- */
