@@ -758,7 +758,7 @@ b {
 
   transform: translateY(101%);
   transition: transform 300ms var(--timing-function);
-  overflow: auto;
+  /* overflow: auto; */
 }
 
 .overlay-text {
